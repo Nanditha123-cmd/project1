@@ -1,0 +1,54 @@
+body{
+    
+    grid-template-columns: max-content;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    padding: 30px;
+    background-image: linear-gradient(to bottom right, blue,purple);
+    justify-content: center;
+}
+.container{
+    align-items: center;
+    background-color:white;
+    padding:20px 20px 20px;
+    border-radius: 50px;
+    align-content: baseline;
+    size: 100%;
+    text-align: center;
+    margin:100px ;
+    height: 50%;
+   
+
+
+}
+p{
+    color: gray;
+}
+.profile{
+    border-color: blue;
+    border-radius: 5px;
+   
+
+}
+img{
+    align-items: center;
+    border-radius: 50%;
+    padding: 20px;
+    align-content: center;
+    
+    border:2px blue solid;
+    
+    border-radius: 50%;
+   
+  
+}
+h1{
+    align-content: center;
+   
+}
+button{
+    color:blue;
+    padding: 10px;
+    border-radius: 40px;
+}
